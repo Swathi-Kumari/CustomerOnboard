@@ -23,7 +23,7 @@
         </configuration>
       </plugin>
     </plugins>
-   <finalName>CO1</finalName>
+   <finalName>CO2</finalName>
   </build>
   <dependencies>
   	<dependency>
